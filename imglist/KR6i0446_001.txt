@@ -1,0 +1,6 @@
+001-0572c00	TKD 20-1191b	buddhist/K-koreana/20-tif/1100-1199/20_1191_B.TIF
+001-0573a25	TKD 20-1191c	buddhist/K-koreana/20-tif/1100-1199/20_1191_C.TIF
+001-0573b12	TKD 20-1192a	buddhist/K-koreana/20-tif/1100-1199/20_1192_A.TIF
+001-0573c01	TKD 20-1192b	buddhist/K-koreana/20-tif/1100-1199/20_1192_B.TIF
+001-0573b00	T 001-0573b	buddhist/T-taisho/T17/05/T17-0573.png
+001-0573c00	T 001-0573c	buddhist/T-taisho/T17/05/T17-0573.png
