@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 751a
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0446_T_001-0573a> 
 #+PROPERTY: JUAN 1
 ¶
@@ -74,7 +74,7 @@ No. 751¶
 復語其¶
 奴：「大家已死，何不啼哭？」
 
-奴為梵志說譬喻言：「我¶
+奴為梵志說𨐫喻言：「我¶
 之大家因緣和會，我如犢子隨逐大牛，人殺¶
 大牛犢子在邊，不能救護大牛之命，憂愁不¶
 樂，啼哭懊惱，何益死者！」
